@@ -2,6 +2,8 @@
 
 ## [View Live Site Here](https://alan-ai-news-reader.netlify.app/)
 
+![Chat Application] (https://ibb.co/hVVSZ8B)
+
 ## Introduction
 
 It is a Voice Controlled News Reader Application built using Alan AI and React.
